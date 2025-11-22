@@ -1,6 +1,3 @@
-# sylob-edition-ressources
-
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -26,7 +23,7 @@
             margin-bottom: 15px;
         }
         .icone {
-            font-size: 18px;
+            font-size: 12px;
             margin-right: 8px;
         }
         .important {
@@ -40,10 +37,7 @@
 
     <div class="bloc">
         <p><span class="icone">🔍</span>Afficher</p>
-        <p><span class="icone">➕</span>Ajouter</p>
-        <p><span class="icone">✏️</span>Modifier</p>
-        <p><span class="icone">➖</span>Supprimer</p>
-    </div>
+            </div>
 
     <div class="bloc">
         <p class="important">Dernière version utilisée : <i>Edition V3.2</i></p>
